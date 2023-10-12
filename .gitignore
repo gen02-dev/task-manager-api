@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Generated API (replace with the actual directory name)
+generated-api/
+
+# Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Output files
+/dist/
+/out/
+.build/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
